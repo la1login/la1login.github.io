@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
+    <title>Posts | Loginov S.A.</title>
     <link>https://la1login.github.io/post/</link>
       <atom:link href="https://la1login.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
@@ -11,6 +11,30 @@
       <title>Posts</title>
       <link>https://la1login.github.io/post/</link>
     </image>
+
+<item>
+      <title>О чем? Для чего?</title>
+      <link>https://la1login.github.io/post/hello/</link>
+      <pubDate>Fri, 22 May 2020 13:01:11 +0300</pubDate>
+      <guid>https://la1login.github.io/post/hello/</guid>
+      <description>&lt;p&gt;Первый пост. Труднее всего начать писать. О чем? Для чего? Важно выбрать тему, которая будет интересна не только мне, но и тем, кто посетит мой сайт.&lt;/p&gt;
+&lt;p&gt;Время — ценнейший невосполнимый ресурс человека, поэтому нужно делать такой контент, на который человек будет готов потратить крупицу своей жизни.
+Начнем за здравие, а дальше как пойдет.
+Основные темы, которые я буду описывать в постах:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Вещи, которые мне показались интересными в области, которую я изучаю (программирование, математика);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Книги, которые я прочел и могу посоветовать или наоборот, попросить вас никогда их не покупать (техническая литература, художественная);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cтатьи, которые мне понравились.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Надеюсь, вам будет здесь интересно. Спасибо за внимание.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
